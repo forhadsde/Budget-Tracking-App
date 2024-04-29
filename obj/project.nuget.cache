@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "5VpwUT58xVkun7rBmpMjiJfuVZ3g3AltIUOVURTIWgYhPExY+xH/faX+VFJsC/00twSUdb6O17QLtnEYgnRtJw==",
+  "dgSpecHash": "2715bt9cm+aLITEiCrc5Ifa7chwdGdDSkC34Hh8ZLK8q9+aQVjRR7KlHSScT9JVa0yB7RDEMmrqdWJ6AxnEq6A==",
   "success": true,
-  "projectFilePath": "/Users/jinmizuno/Desktop/Study/Budget-Tracking-App/Budget-Tracking-App.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/Users/reza/Documents/GitHub/Coursework/Budget-Tracking-App/Budget-Tracking-App.csproj",
+  "expectedPackageFiles": [
+    "/Users/reza/.nuget/packages/microsoft.netcore.app.ref/7.0.16/microsoft.netcore.app.ref.7.0.16.nupkg.sha512",
+    "/Users/reza/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.16/microsoft.aspnetcore.app.ref.7.0.16.nupkg.sha512",
+    "/Users/reza/.nuget/packages/microsoft.netcore.app.host.osx-arm64/7.0.16/microsoft.netcore.app.host.osx-arm64.7.0.16.nupkg.sha512"
+  ],
   "logs": []
 }
